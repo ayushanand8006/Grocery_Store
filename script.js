@@ -7,8 +7,9 @@ const products = [
     { id: 5, name: 'Cucumber', price: 25 },
     { id: 6, name: 'Ladies Fingers ', price: 40 },
     { id: 7, name: 'Onion', price: 36 },
-    { id: 8, name: 'Potato', price: 20 }
-
+    { id: 8, name: 'Potato', price: 20 },
+    { id: 9, name: 'Tomato', price: 40 },
+    { id: 10, name: 'Beans', price: 120 }
 ];
 
 // Function to add item to cart
